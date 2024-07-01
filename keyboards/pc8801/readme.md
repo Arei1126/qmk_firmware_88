@@ -2,6 +2,8 @@
 
 ![pc8801](imgur.com image replace me!)
 
+NEC PC-8801(1st generation) Keyboard
+
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Arei1126](https://github.com/Arei1126)
